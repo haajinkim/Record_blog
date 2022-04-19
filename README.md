@@ -1,2 +1,2 @@
-# Record_blog
-Development log
+# Sparta_내일배움캠프 개발일지
+스파르타 코딩클럽(내일배움캠프)의 개발일지를 위한 장소입니다.
